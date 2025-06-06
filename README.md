@@ -22,9 +22,11 @@ tic-tac-toe/
 ├── style.css # Styling (black & white)
 ├── script.js # Game logic
 └── README.md # Project instructions
+---
 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript (Vanilla)
+---
 
 
